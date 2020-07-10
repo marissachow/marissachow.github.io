@@ -1,4 +1,6 @@
-## Blah blah blah.
+# Home
+
+## Welcome to my website.
 
 Lorem ipsum dolor sit amet, falli graecis adipiscing nec at. Quis apeirian sit ea, his no tritani antiopam. Qui ei epicurei petentium qualisque. Elit contentiones no duo, cu pri iusto dicit. Est ex fabellas salutandi.
 
